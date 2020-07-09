@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/SpjrSys">
+        <file>city.json</file>
+    </qresource>
+</RCC>

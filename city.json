@@ -1,0 +1,152 @@
+{
+  "city": [
+    {
+      "city_code": "101010100",
+      "city_name": "北京"
+    },
+    {
+      "city_code": "101020100",
+      "city_name": "上海"
+    },
+    {
+      "city_code": "101030100",
+      "city_name": "天津"
+    },
+    {
+      "city_code": "101040100",
+      "city_name": "重庆"
+    },
+    {
+      "city_code": "101050201",
+      "city_name": "齐齐哈尔"
+    },
+    {
+      "city_code": "101200101",
+      "city_name": "武汉"
+    },
+    {
+      "city_code": "101050101",
+      "city_name": "哈尔滨"
+    },
+    {
+      "city_code": "101210101",
+      "city_name": "杭州"
+    },
+    {
+      "city_code": "101060101",
+      "city_name": "长春"
+    },
+    {
+      "city_code": "101070101",
+      "city_name": "沈阳"
+    },
+    {
+      "city_code": "101080101",
+      "city_name": "呼和浩特"
+    },
+    {
+      "city_code": "101080201",
+      "city_name": "包头"
+    },
+    {
+      "city_code": "101090101",
+      "city_name": "石家庄"
+    },
+    {
+      "city_code": "101130101",
+      "city_name": "乌鲁木齐市"
+    },
+    {
+      "city_code": "101160101",
+      "city_name": "兰州"
+    },
+    {
+      "city_code": "101150101",
+      "city_name": "西宁"
+    },
+    {
+      "city_code": "101110101",
+      "city_name": "西安市"
+    },
+    {
+      "city_code": "101170101",
+      "city_name": "银川"
+    },
+    {
+      "city_code": "101180101",
+      "city_name": "郑州"
+    },
+    {
+      "city_code": "101120101",
+      "city_name": "济南"
+    },
+    {
+      "city_code": "101100101",
+      "city_name": "太原"
+    },
+    {
+      "city_code": "101220101",
+      "city_name": "合肥"
+    },
+    {
+      "city_code": "101250101",
+      "city_name": "长沙市"
+    },
+    {
+      "city_code": "101190101",
+      "city_name": "南京"
+    },
+    {
+      "city_code": "101270101",
+      "city_name": "成都"
+    },
+    {
+      "city_code": "101260101",
+      "city_name": "贵阳"
+    },
+    {
+      "city_code": "101290101",
+      "city_name": "昆明"
+    },
+    {
+      "city_code": "101300101",
+      "city_name": "南宁"
+    },
+    {
+      "city_code": "101140101",
+      "city_name": "拉萨"
+    },
+    {
+      "city_code": "101240101",
+      "city_name": "南昌市"
+    },
+    {
+      "city_code": "101280101",
+      "city_name": "广州"
+    },
+    {
+      "city_code": "101230101",
+      "city_name": "福州"
+    },
+    {
+      "city_code": "101340101",
+      "city_name": "台北"
+    },
+    {
+      "city_code": "101310101",
+      "city_name": "海口"
+    },
+    {
+      "city_code": "101320101",
+      "city_name": "香港"
+    },
+    {
+      "city_code": "101330101",
+      "city_name": "澳门"
+    },
+    {
+      "city_code": "101050203",
+      "city_name": "龙江县"
+    }
+  ]
+}
